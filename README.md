@@ -20,10 +20,10 @@ This project delivers a detailed analysis of Airbnb listing trends and pricing d
 ## 🛠️ Tools Used
 
 <img src="https://github.com/mjshubham21/AirBnB_Python_Project/blob/main/assets/Jupyter.svg" alt="Jupyter Logo" width="70"/>
-<img src="https://github.com/mjshubham21/AirBnB_Python_Project/blob/main/assets/pandas.jpg" alt="Pandas Logo" width="70"/>
-<img src="https://github.com/mjshubham21/AirBnB_Python_Project/blob/main/assets/numpy.jpg" alt="NumPy Logo" width="70"/>
-<img src="https://github.com/mjshubham21/AirBnB_Python_Project/blob/main/assets/matplotlib.jpg" alt="Matplotlib Logo" width="70"/>
-<img src="https://github.com/mjshubham21/AirBnB_Python_Project/blob/main/assets/seaborn.jpg" alt="Seaborn Logo" width="120"/>
+<img src="https://github.com/mjshubham21/AirBnB_Python_Project/blob/main/assets/pandas.png" alt="Pandas Logo" width="70"/>
+<img src="https://github.com/mjshubham21/AirBnB_Python_Project/blob/main/assets/numpy.png" alt="NumPy Logo" width="70"/>
+<img src="https://github.com/mjshubham21/AirBnB_Python_Project/blob/main/assets/matplotlib.png" alt="Matplotlib Logo" width="70"/>
+<img src="https://github.com/mjshubham21/AirBnB_Python_Project/blob/main/assets/seaborn.png" alt="Seaborn Logo" width="120"/>
 
 
 Analysis was performed using:
