@@ -19,13 +19,12 @@ This project delivers a detailed analysis of Airbnb listing trends and pricing d
 
 ## 🛠️ Tools Used
 
-<p align="center">
-  <img src="assets/Jupyter.jpg" alt="Jupyter Logo" width="70"/>
-  <img src="assets/pandas.jpg" alt="Pandas Logo" width="70"/>
-  <img src="assets/numpy.jpg" alt="NumPy Logo" width="70"/>
-  <img src="assets/matplotlib.jpg" alt="Matplotlib Logo" width="70"/>
-  <img src="assets/seaborn.jpg" alt="Seaborn Logo" width="120"/>
-</p>
+<img src="https://github.com/mjshubham21/AirBnB_Python_Project/blob/main/assets/Jupyter.svg" alt="Jupyter Logo" width="70"/>
+<img src="https://github.com/mjshubham21/AirBnB_Python_Project/blob/main/assets/pandas.jpg" alt="Pandas Logo" width="70"/>
+<img src="https://github.com/mjshubham21/AirBnB_Python_Project/blob/main/assets/numpy.jpg" alt="NumPy Logo" width="70"/>
+<img src="https://github.com/mjshubham21/AirBnB_Python_Project/blob/main/assets/matplotlib.jpg" alt="Matplotlib Logo" width="70"/>
+<img src="https://github.com/mjshubham21/AirBnB_Python_Project/blob/main/assets/seaborn.jpg" alt="Seaborn Logo" width="120"/>
+
 
 Analysis was performed using:
 
